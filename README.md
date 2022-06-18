@@ -13,7 +13,7 @@ GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but provid
 
 Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Automated Refactor Tool for Web Developers](https://medium.com/@fengyuhere/gogocode-yet-another-automatic-refactor-tool-for-web-developers-df8a6a3560da)
 
-## Intro2
+## Intro2 是
 
 Let's show you how to select and modify code with our API
 
